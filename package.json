@@ -1,0 +1,9 @@
+{
+  "name": "@gerstams/ngx-table-search",
+  "version": "0.1.0",
+  "peerDependencies": {
+    "@angular/common": "^9.0.7",
+    "@angular/core": "^9.0.7",
+    "tslib": "^1.10.0"
+  }
+}
